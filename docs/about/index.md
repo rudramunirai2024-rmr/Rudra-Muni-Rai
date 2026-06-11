@@ -72,5 +72,5 @@ I believe life is not only about finding answers but also about having the coura
 | Platform | Link |
 |----------|------|
 | GitHub | [rudramunirai](https://github.com/rudramunirai) |
-| LinkedIn | [Rudra Muni Rai](https://www.linkedin.com/in/rudramunirai) |
+| LinkedIn | www.linkedin.com/in/rudramunirai |
 | Email | [rudra.munirai2024@academy.bt](mailto:rudra.munirai2024@academy.bt) |
