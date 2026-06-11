@@ -1,21 +1,16 @@
-```markdown
 ---
 title: About Me
 ---
 
 # About Me
 
-<div class="profile-section" markdown>
+![Rudra Muni Rai](https://drive.google.com/thumbnail?id=15VApzeDczcfJVcGvVyERxAfEnYLK8RhO&sz=w400)
 
-<img class="profile-photo" src="https://drive.google.com/thumbnail?id=15VApzeDczcfJVcGvVyERxAfEnYLK8RhO&sz=w400" alt="Rudra Muni Rai">
+## Rudra Muni Rai
 
-<div class="profile-info" markdown>
+**Grade 9 Student • Explorer • Creator**
 
-Rudra Muni Rai
-
-**Title / Role** — Grade 9 Student • Explorer • Creator
-
-> _"Still learning, still wondering, and creating a life I love."_
+> *"Still learning, still wondering, and creating a life I love."*
 
 I am a Grade 9 student at The Royal Academy with a deep fascination for the universe and the countless questions it inspires. Since childhood, I have looked up at the night sky with wonder, captivated by the stars, planets, galaxies, and the mysteries of existence. My love for science, physics, and logic stems from a desire to understand not only how the universe works, but also our place within it.
 
@@ -23,39 +18,31 @@ Beyond academics, I find joy in creativity and human expression. I play the guit
 
 I believe life is not only about finding answers but also about having the courage to ask meaningful questions. Curiosity drives me to explore new ideas, embrace unfamiliar perspectives, and continue learning from both successes and failures. I hope to move through the world with kindness, gratitude, and a sense of wonder that never fades, always remaining a student of both the universe and humanity.
 
-</div>
-
-</div>
-
-<hr class="section-divider">
+---
 
 ## Education
 
 | Year | Degree / Grade | School |
-|------|-----------------|-------------|
+|--------|-----------------|-------------------------------|
 | 2024 – Present | Grade 7 – Present | The Royal Academy |
 | 2017 – 2023 | PP – Class 6 | Pelrithang Higher Secondary School |
 
-<hr class="section-divider">
+---
 
 ## Skills
 
-<div markdown>
+- Python
+- Git & GitHub
+- MkDocs
+- Arduino
+- Turtle Graphics
+- Research
+- Technical Writing
+- Problem Solving
+- Project Documentation
+- Teamwork
 
-<span class="skill-badge">Python</span>
-<span class="skill-badge">Git & GitHub</span>
-<span class="skill-badge">MkDocs</span>
-<span class="skill-badge">Arduino</span>
-<span class="skill-badge">Turtle Graphics</span>
-<span class="skill-badge">Research</span>
-<span class="skill-badge">Technical Writing</span>
-<span class="skill-badge">Problem Solving</span>
-<span class="skill-badge">Project Documentation</span>
-<span class="skill-badge">Teamwork</span>
-
-</div>
-
-<hr class="section-divider">
+---
 
 ## Interests
 
@@ -66,14 +53,10 @@ I believe life is not only about finding answers but also about having the coura
 - **Anime & Storytelling** — Discovering perspectives and emotions through powerful stories.
 - **Exploration & Learning** — Embracing curiosity and the excitement of discovering something new.
 
-<hr class="section-divider">
+---
 
 ## Contact
 
-| Platform | Link |
-|----------|------|
-| GitHub | [https://github.com/rudramunirai2024-rmr](https://github.com/rudramunirai2024-rmr) |
-| LinkedIn | [https://www.linkedin.com/in/rudramunirai](https://www.linkedin.com/in/rudramunirai) |
-| Email | [rudra.munirai2024@academy.bt](mailto:rudra.munirai2024@academy.bt) |
-
-```
+- **GitHub:** <https://github.com/rudramunirai2024-rmr>
+- **LinkedIn:** <https://www.linkedin.com/in/rudramunirai>
+- **Email:** <mailto:rudra.munirai2024@academy.bt>
