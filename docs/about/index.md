@@ -1,3 +1,4 @@
+```markdown
 ---
 title: About Me
 ---
@@ -28,7 +29,7 @@ I believe life is not only about finding answers but also about having the coura
 
 <hr class="section-divider">
 
-##  Education
+## Education
 
 | Year | Degree / Grade | School |
 |------|-----------------|-------------|
@@ -37,7 +38,7 @@ I believe life is not only about finding answers but also about having the coura
 
 <hr class="section-divider">
 
-## 🛠️ Skills
+## Skills
 
 <div markdown>
 
@@ -56,21 +57,23 @@ I believe life is not only about finding answers but also about having the coura
 
 <hr class="section-divider">
 
-##  Interests
+## Interests
 
--**Space & Physics** — Fascinated by the mysteries of the universe and the laws that govern reality.
- **Music** — Playing the guitar, singing, and finding meaning through melodies and lyrics.
- **Literature & Art** — Drawing, reading, and appreciating creativity in all its forms.
- **Football** — Enjoying teamwork, discipline, and the joy of the game.
- **Anime & Storytelling** — Discovering perspectives and emotions through powerful stories.
- **Exploration & Learning** — Embracing curiosity and the excitement of discovering something new.
+- **Space & Physics** — Fascinated by the mysteries of the universe and the laws that govern reality.
+- **Music** — Playing the guitar, singing, and finding meaning through melodies and lyrics.
+- **Literature & Art** — Drawing, reading, and appreciating creativity in all its forms.
+- **Football** — Enjoying teamwork, discipline, and the joy of the game.
+- **Anime & Storytelling** — Discovering perspectives and emotions through powerful stories.
+- **Exploration & Learning** — Embracing curiosity and the excitement of discovering something new.
 
 <hr class="section-divider">
 
-## 📬 Contact
+## Contact
 
 | Platform | Link |
 |----------|------|
-| GitHub | [rudramunirai](https://github.com/rudramunirai) |
-| LinkedIn | www.linkedin.com/in/rudramunirai |
+| GitHub | [https://github.com/rudramunirai2024-rmr](https://github.com/rudramunirai2024-rmr) |
+| LinkedIn | [https://www.linkedin.com/in/rudramunirai](https://www.linkedin.com/in/rudramunirai) |
 | Email | [rudra.munirai2024@academy.bt](mailto:rudra.munirai2024@academy.bt) |
+
+```
