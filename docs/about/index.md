@@ -4,35 +4,23 @@ title: About Me
 
 # About Me
 
-<!-- ============================================================
-     INSTRUCTIONS: Replace placeholder text below with your info.
-     To use a Google Drive profile photo, see the image section.
-     ============================================================ -->
-
 <div class="profile-section" markdown>
 
-<!-- ── Profile Photo ─────────────────────────────────────────
-     To embed a photo from Google Drive:
-     1. Upload your photo to Google Drive
-     2. Right-click → Share → "Anyone with the link"
-     3. Copy the FILE ID from the share link
-        (e.g., https://drive.google.com/file/d/FILE_ID/view)
-     4. Replace YOUR_FILE_ID below
-     ──────────────────────────────────────────────────────── -->
-
-<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1u1_Mebw0WiAgEy98OZ64ls9IW0oCBlAh&sz=w400" alt="Profile Photo">
-
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=15VApzeDczcfJVcGvVyERxAfEnYLK8RhO&sz=w400" alt="Rudra Muni Rai">
 
 <div class="profile-info" markdown>
 
-## Your Name Here
+Rudra Muni Rai
 
-**Title / Role** — student
+**Title / Role** — Grade 9 Student • Explorer • Creator
 
-> _"Add your favorite quote or personal tagline here."_
+> _"Still learning, still wondering, and creating a life I love."_
 
-A short paragraph about yourself. Describe who you are, what you're passionate about,
-and what drives you. Keep it personal and authentic — this is your space!
+I am a Grade 9 student at The Royal Academy with a deep fascination for the universe and the countless questions it inspires. Since childhood, I have looked up at the night sky with wonder, captivated by the stars, planets, galaxies, and the mysteries of existence. My love for science, physics, and logic stems from a desire to understand not only how the universe works, but also our place within it.
+
+Beyond academics, I find joy in creativity and human expression. I play the guitar, love singing, and appreciate the way music brings people together. Literature and art inspire me because they reveal emotions, ideas, and stories that transcend time and culture. I enjoy drawing, reading, watching anime, and playing football, each of which teaches me something different about discipline, imagination, teamwork, and empathy.
+
+I believe life is not only about finding answers but also about having the courage to ask meaningful questions. Curiosity drives me to explore new ideas, embrace unfamiliar perspectives, and continue learning from both successes and failures. I hope to move through the world with kindness, gratitude, and a sense of wonder that never fades, always remaining a student of both the universe and humanity.
 
 </div>
 
@@ -40,41 +28,42 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 <hr class="section-divider">
 
-## 🎓 Education
+##  Education
 
 | Year | Degree / Grade | School |
 |------|-----------------|-------------|
-| 2024 – Present | B.Sc. in Your Major | Your University |
-| 2020 – 2024 | Higher Secondary | Your School/College |
+| 2024 – Present | Grade 7 – Present | The Royal Academy |
+| 2017 – 2023 | PP – Class 6 | Pelrithang Higher Secondary School |
+
+<hr class="section-divider">
 
 ## 🛠️ Skills
 
 <div markdown>
 
 <span class="skill-badge">Python</span>
-<span class="skill-badge">JavaScript</span>
-<span class="skill-badge">Arduino</span>
-<span class="skill-badge">MkDocs</span>
 <span class="skill-badge">Git & GitHub</span>
-<span class="skill-badge">3D Printing</span>
-<span class="skill-badge">CAD Design</span>
-<span class="skill-badge">Electronics</span>
+<span class="skill-badge">MkDocs</span>
+<span class="skill-badge">Arduino</span>
+<span class="skill-badge">Turtle Graphics</span>
+<span class="skill-badge">Research</span>
+<span class="skill-badge">Technical Writing</span>
+<span class="skill-badge">Problem Solving</span>
+<span class="skill-badge">Project Documentation</span>
+<span class="skill-badge">Teamwork</span>
 
 </div>
 
-!!! tip "Customize Your Skills"
-
-    Replace the badges above with your own skills.  
-    Just copy-paste a `<span class="skill-badge">Your Skill</span>` line and change the text.
-
 <hr class="section-divider">
 
-## 🌟 Interests
+##  Interests
 
-- 🔬 **Research Area 1** — Brief description of your interest
-- 🎨 **Creative Hobby** — Brief description
-- 🏃 **Sports / Activity** — Brief description
-- 📚 **Reading / Learning** — Brief description
+-**Space & Physics** — Fascinated by the mysteries of the universe and the laws that govern reality.
+ **Music** — Playing the guitar, singing, and finding meaning through melodies and lyrics.
+ **Literature & Art** — Drawing, reading, and appreciating creativity in all its forms.
+ **Football** — Enjoying teamwork, discipline, and the joy of the game.
+ **Anime & Storytelling** — Discovering perspectives and emotions through powerful stories.
+ **Exploration & Learning** — Embracing curiosity and the excitement of discovering something new.
 
 <hr class="section-divider">
 
@@ -82,7 +71,6 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 | Platform | Link |
 |----------|------|
-| :fontawesome-brands-github: GitHub | [yourusername](https://github.com/yourusername) |
-| :fontawesome-brands-linkedin: LinkedIn | [Your Name](https://linkedin.com/in/yourusername) |
-| :material-email: Email | [your.email@example.com](mailto:your.email@example.com) |
-| :material-web: Website | [yourwebsite.com](https://yourwebsite.com) |
+| GitHub | [rudramunirai](https://github.com/rudramunirai) |
+| LinkedIn | [Rudra Muni Rai](https://www.linkedin.com/in/rudramunirai) |
+| Email | [rudra.munirai2024@academy.bt](mailto:rudra.munirai2024@academy.bt) |
