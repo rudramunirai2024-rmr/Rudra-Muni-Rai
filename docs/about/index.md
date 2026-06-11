@@ -22,8 +22,8 @@ I believe life is not only about finding answers but also about having the coura
 
 ## Education
 
-| Year | Degree / Grade | School |
-|--------|-----------------|-------------------------------|
+| Year | Grade | School |
+|--------|---------|-------------------------------|
 | 2024 – Present | Grade 7 – Present | The Royal Academy |
 | 2017 – 2023 | PP – Class 6 | Pelrithang Higher Secondary School |
 
